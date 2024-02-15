@@ -4,7 +4,8 @@
 
 CORAL Shopping is a modern e-commerce web application built with React, Vite, and Tailwind CSS. It provides users with a seamless shopping experience, allowing them to browse products, add them to their cart, and proceed with the checkout process.
 
-![image](https://github.com/shivamm-55/CORAL-Shopping-Site/assets/108998384/766d24e0-b37a-437e-b852-b9529441d361)
+![image](https://github.com/shivamm-55/CORAL-Shopping-Site/assets/108998384/c9df14dc-9043-4f48-a30a-c568ab0275ac)
+
 
 
 ## Features
@@ -97,5 +98,5 @@ Currently, two official plugins are available:
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](https://github.com/shivamm-55/CORAL-Shopping-Site/assets/108998384/a776292c-1676-43f4-ad55-cc08108a5896)
 
-  ![image](https://github.com/shivamm-55/CORAL-Shopping-Site/assets/108998384/64f72514-944f-4a5c-8d06-2e294405b6da)
