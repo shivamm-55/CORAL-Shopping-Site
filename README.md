@@ -54,7 +54,7 @@ To get a local copy of CORAL Shopping up and running, follow these steps:
 
 5. **Open in Browser:**
 
-   Visit `http://localhost:3000` in your browser to view CORAL Shopping.
+   Visit `http://localhost:5173` in your browser to view CORAL Shopping.
 
 ## Contributing
 
@@ -99,4 +99,6 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 ![image](https://github.com/shivamm-55/CORAL-Shopping-Site/assets/108998384/a776292c-1676-43f4-ad55-cc08108a5896)
+
+Your Feedback is more Important for me  Go Check this web app https://main--coralshopping.netlify.app/
 
