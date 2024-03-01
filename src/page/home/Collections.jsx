@@ -2,7 +2,7 @@ import React from "react";
 
 const Collections = () => {
   return (
-    <div className='bg-[url("public/images/collection-bg.png")] bg-cover bg-center bg-no-repeat xl:px-28 px-4 my-20 '>
+    <div className='bg-[url("https://github.com/shivamm-55/CORAL-Shopping-Site/blob/main/public/images/collection-bg.png?raw=true")] bg-cover bg-center bg-no-repeat xl:px-28 px-4 my-20 '>
       <div className="h-[580px] flex justify-between items-center md:flex-row">
         <div className="md:w-1/2"></div>
         <div className="md:w-1/2">
