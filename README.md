@@ -31,7 +31,7 @@ To get a local copy of CORAL Shopping up and running, follow these steps:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/coral-shopping.git
+   git clone https://github.com/shivamm-55/CORAL-Shopping-Site
    ```
 
 2. **Navigate to the Project Directory:**
@@ -100,5 +100,5 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 ![image](https://github.com/shivamm-55/CORAL-Shopping-Site/assets/108998384/a776292c-1676-43f4-ad55-cc08108a5896)
 
-Your Feedback is more Important for me  Go Check this web app https://main--coralshopping.netlify.app/
+Your Feedback is more Important for me  Go Check this web app https://coralshopping.netlify.app
 
